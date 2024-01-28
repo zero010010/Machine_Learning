@@ -2,7 +2,7 @@
   <img src="images/images.png" alt="HAR Logo" width="80px" height="80px">
 </p>
 <h1 align="center"> Block 2. Machine Learning Exercises </h1>
-<h3 align="center"> This repo contains the machine learning exercises for the Data Science boot camp . </h3>  
+<h3 align="center"> This repo contains the machine learning exercises for Block 2 . </h3>  
 
 </br>
 
