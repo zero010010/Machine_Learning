@@ -1,8 +1,30 @@
 <p align="center"> 
   <img src="images/images.png" alt="HAR Logo" width="80px" height="80px">
 </p>
-<h1 align="center"> Block 2. Machine Learning Exercises </h1>
-<h3 align="center"> This repo contains the machine learning exercises for Block 2 . </h3>  
+<h1 align="center"> Block 2. Machine Learning  </h1>
+<h3 align="center"> Welcome to my machine learning learning repository!<br> This repo does not contain any standalone machine learning projects, but is focused on learning.<br>
+  
+  This is a collection of my learning journey and projects as I develop skills in machine learning and data science.<br>
+
+Contents<br>
+This repository contains the following learning resources:
+
+Tutorials: Jupyter notebooks and Python scripts walking through machine learning concepts like regression, classification, clustering, and neural networks.<br>
+
+Mini Projects: Small example projects to practice specific ML skills and techniques.<br>
+
+ML Concepts: Notes, summaries, flashcards on machine learning theory and concepts like bias-variance tradeoff, cross-validation and regularization<br>
+
+Cheat Sheets: Quick reference cheat sheets for ML algorithms, Python data science and libraries.<br>
+
+Datasets: Small curated open datasets to practice ML modelling.<br>
+
+Roadmaps: Roadmaps and study plans for gaining ML skills.<br>
+
+
+
+
+ . </h3>  
 
 </br>
 
