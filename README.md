@@ -18,13 +18,24 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 
 <!--This project is written in Python programming language. <br>-->
-The following open source packages are used in this course:
+The following open source packages are used in this repo:
 * Numpy<br>
 * Pandas<br>
 * Matplotlib<br>
 * Scikit-Learn<br>
 * Seaborn<br>
-* Sklearn
+* Sklearn<br>
+* SciPy<br>
+* StatsModels<br>
+* Keras<br>
+* TensorFlow<br>
+* PyTorch<br>
+* NLTK<br>
+* SpaCy<br>
+
+
+
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
