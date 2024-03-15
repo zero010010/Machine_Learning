@@ -24,7 +24,7 @@ uvicorn app:app --reload
 The endpoints accept and return JSON data.
 
 **Example request:**
-"http://127.0.0.1:8000/v1/metrics"
+//127.0.0.1:8000/v1/metrics
 
 
 **Example response:**
